@@ -1,0 +1,15 @@
+{
+  "id": "viduq3-turbo",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T23:18:45Z",
+  "prices": {
+    "default": {
+      "list": 0.032,
+      "effective": 0.032
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.032 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/viduq3-turbo"
+}
